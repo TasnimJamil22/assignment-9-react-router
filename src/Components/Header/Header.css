@@ -1,0 +1,25 @@
+.header-container{
+    background-color: rgba(11, 11, 11, 0.879);
+    height: 70px;
+    padding-top: 20px;
+     
+
+}
+.header-link{
+     color: white;
+     text-decoration: none;
+     margin-right: 70px;
+      
+      
+}
+.header-link:hover{
+    background-color:  rgba(255, 255, 255, 0.833);
+     
+    border-radius: 4px;
+    color: #000;
+     
+    
+
+     
+      
+}

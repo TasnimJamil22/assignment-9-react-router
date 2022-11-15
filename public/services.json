@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "SPANISH" ,
+        "price": "$100",
+        "img" : "https://img.freepik.com/premium-vector/spanish-flag-spain-country-national-identity_8071-1617.jpg"
+    
+    },
+    {
+        "id": 2,
+        "name": "FRENCH" ,
+        "price": "$90",
+        "img" : "https://orwak.com/wp-content/uploads/2015/06/france-flag-std-600x600.jpg"
+    
+    },
+    {
+        "id": 3,
+        "name": "GERMAN" ,
+        "price": "$80",
+        "img" : "https://img.freepik.com/free-photo/small-flag-germany-blurred-city_485709-15.jpg?w=2000"
+    
+    },
+    {
+        "id": 4,
+        "name": "ETALIAN" ,
+        "price": "$90",
+        "img" : "https://www.worldatlas.com/r/w1200/upload/20/07/2a/shutterstock-152854481.jpg"
+    
+    },
+    {
+        "id": 5,
+        "name": "PORTUGUESE" ,
+        "price": "$80",
+        "img" : "https://live.staticflickr.com/3887/14777915629_fc38b6b5b3_b.jpg"
+    
+    },
+    {
+        "id": 6,
+        "name": "BANGLA" ,
+        "price": "$100",
+        "img" : "https://us.123rf.com/450wm/alekstaurus/alekstaurus1811/alekstaurus181100134/111460974-bangladesh-flag-textile-cloth-waving.jpg?ver=6"
+    
+    },
+    {
+        "id":7,
+        "name": "JAPANESE" ,
+        "price": "$90",
+        "img" : "https://media.gettyimages.com/id/157636958/photo/japanese-flag-on-pole.jpg?s=612x612&w=gi&k=20&c=ApaWCkTX-JCucFBaQwgxg-ovlovlPFLI87YXDjEL_Mw="
+    
+    },
+    {
+        "id": 8,
+        "name": "DUTCH" ,
+        "price": "$70",
+        "img" : "https://www.schengenvisainfo.com/news/wp-content/uploads/2022/01/Netherlands-flag-1.jpg"
+    
+    }
+    
+
+]
