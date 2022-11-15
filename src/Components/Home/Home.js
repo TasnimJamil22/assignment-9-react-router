@@ -73,8 +73,8 @@ const Home = () => {
 
                {/* services  */}
 
-               <div className='container'>
-                  <h3 className='text-primary '>Our Latest Servics:</h3>
+               <div className='container mx-auto'>
+                  <h3 className='text-primary mx-auto'>Our Latest Servics:</h3>
                   <div className='row  mx-auto'>
                     {
                       
