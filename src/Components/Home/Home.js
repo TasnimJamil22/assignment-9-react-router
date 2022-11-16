@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'; 
-import img1 from './banner.jpg';
+import img1 from './wrtiting-tools.jpg';
 import img2 from './learning.jpg';
 import img3 from './360_F_444963293_Q4ZmPKrt2Cy1GytDACOR7aTijgtMW3rZ.jpg';
 import './Home.css';
@@ -17,18 +17,6 @@ const Home = () => {
 
     return (
         <div>
-            {/* 1.css framework
-            2.4 routes (navigation ---home,about,....)
-            3.header & footer still in all page
-            4.404 page
-            5.4 services in home page related to our website, price, name,img
-            6.nice name of website wish to use icon
-            7.service fake data 4
-            8. 4 routes without / , services route with more services
-            9.for bonus: read me file edit , in extra page do something, responsive , context api , dynamic route  */}
-            {/* <div>
-                   <img src={img1} alt="" />
-            </div> */}
               
                {/* Banner */}
                <>
@@ -89,7 +77,20 @@ const Home = () => {
 
                </div>
 
-             
+               
+
+             {/* 1.css framework
+            2. 4 routes (navigation ---home,about,....)
+            3. header & footer still in all page
+            4. 404 page
+            5. 4 services in home page related to our website, price, name,img
+            6. nice name of website wish to use icon
+            7. service fake data 4
+            8.  4 routes without / , services route with more services
+            9. for bonus: read me file edit , in extra page do something,          responsive , context api , dynamic route  */}
+            {/* <div>
+                   <img src={img1} alt="" />
+            </div> */}
 
 
         </div>
@@ -97,3 +98,4 @@ const Home = () => {
 };
 
 export default Home;
+

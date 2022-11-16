@@ -7,7 +7,7 @@ const Service = (props) => {
     const {id,name,price,img} = props.service;
     return (
          
-          <div className='col-lg-4  col-sm-6 col-12   border rounded-2 py-2 mx-auto'  style={{height:"550px" , width:"400px"}}>
+          <div className='col-lg-4    col-sm-6 col-12   border rounded-2 py-2 mx-auto'  style={{height:"550px" , width:"400px"}}>
                
               <img  className=' rounded-3 p-1' src={img} alt="" />
               <h4>{name}</h4>

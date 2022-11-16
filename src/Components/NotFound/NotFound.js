@@ -1,10 +1,10 @@
 import React from 'react'; 
-import img from './imgg.png';
+import img from './notfouond.png';
 
 const NotFound = () => {
     return (
         <div>
-             <img style={{width:"700px", height:"500px"}} src= {img} alt="" />
+             <img className='p-5 m-5' style={{width:"500px", height:"500px"}} src= {img} alt="" />
         </div>
     );
 };
