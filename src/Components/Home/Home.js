@@ -13,7 +13,7 @@ const Home = () => {
     .then(res => res.json())
     .then(data =>  setServices(data))
 },[])
-  const topServices = services.slice(3,6);
+  const topServices = services.slice(2,6);
 
     return (
         <div>
@@ -74,7 +74,7 @@ const Home = () => {
                {/* services  */}
 
                <div className='container mx-auto'>
-                  <h3 className='text-primary mx-auto'>Our Latest Servics:</h3>
+                  <h3 className='text-primary mx-auto py-2'>Our Latest Services:</h3>
                   <div className='row  mx-auto'>
                     {
                       
